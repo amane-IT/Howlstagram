@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "259300384101",
+    "project_id": "howlstagram-cadbd",
+    "storage_bucket": "howlstagram-cadbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259300384101:android:1c268be9cb399e268e958c",
+        "android_client_info": {
+          "package_name": "com.howlstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259300384101-jkg2tkhkj8r1365sbo807vvfdoc0kbu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.howlstagram",
+            "certificate_hash": "044cc0506d861c0ee80d2d9e7ac4d6f5a274d0ec"
+          }
+        },
+        {
+          "client_id": "259300384101-c1mlbas8gnu2ir9i25uuktr2gu0lfuud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4VG80sx1V5JmRZokRIKURpAtJ9GBvZws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259300384101-c1mlbas8gnu2ir9i25uuktr2gu0lfuud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
